@@ -1,4 +1,4 @@
 # Recriando-a-pagina-inicial-do-Instagram
-![image](https://user-images.githubusercontent.com/45471089/113965562-f94f9c00-9803-11eb-880b-68445b02c7bb.png)
+![image](https://user-images.githubusercontent.com/45471089/114479856-b3198480-9bd7-11eb-8461-42cb1baade98.png)
 
 Repositório para execução do Projeto: Recriando a Página Inicial do Instagram no BootCamp HTML Web Developer da Digital Innovation One. O projeto foi ministrado por Gabriela Pinheiro, Professora e Front-End Engineer, em outubro de 2020. O projeto aborda o conceito de CSS Flexbox e Responsividade.
